@@ -1,0 +1,15 @@
+{
+  "status": "proposta — validar com a prancha original",
+  "principal": {
+    "preto": "#0B0B0B",
+    "grafite": "#252525",
+    "laranja": "#FF6A00",
+    "branco": "#FFFFFF"
+  },
+  "alternativa-inspirada-ferrari": {
+    "vermelho": "#D40000",
+    "amarelo": "#FFD400",
+    "preto": "#0B0B0B",
+    "branco": "#FFFFFF"
+  }
+}

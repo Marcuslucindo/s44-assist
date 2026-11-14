@@ -1,0 +1,11 @@
+/* Proposta: validar com os originais. */
+:root {
+  --s44-preto: #0B0B0B;
+  --s44-grafite: #252525;
+  --s44-laranja: #FF6A00;
+  --s44-branco: #FFFFFF;
+}
+[data-s44-variante="ferrari"] {
+  --s44-destaque: #D40000;
+  --s44-apoio: #FFD400;
+}
